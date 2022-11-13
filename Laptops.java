@@ -1,6 +1,6 @@
 /*
  * PBO Sesi 6
- * Nama : Akbar Ilham Perhan
+ * Nama : Muhamad Rizky Fauzi 
  * NIM : 20210040048
  * Kelas : TI21A
  * Package-Abstract-Interface
